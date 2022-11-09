@@ -1,8 +1,11 @@
 # 达芬奇字幕搜索工具
 ## Introduce
 这个工具能帮助你搜索字幕轨道1上的字幕内容，点击GoTo可以跳转到对应时间点
-![Subtitle Search 1 0](https://user-images.githubusercontent.com/61965265/200902514-5ac90ba9-0302-4fd3-a513-3713bd874dd1.jpg)
+> ![Subtitle Search 1 0](https://user-images.githubusercontent.com/61965265/200902514-5ac90ba9-0302-4fd3-a513-3713bd874dd1.jpg)
 
 ## Install
-Put this file into /Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts/
+Put this file into 
+'''
+/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts/
 (Py3 is required)
+'''
