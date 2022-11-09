@@ -4,7 +4,7 @@
 > ![Subtitle Search 1 0](https://user-images.githubusercontent.com/61965265/200902514-5ac90ba9-0302-4fd3-a513-3713bd874dd1.jpg)
 
 ## Install
-Put this file into 
+Put the .py file into this path below
 ```
 /Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts/
 (Py3 is required)
