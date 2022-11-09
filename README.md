@@ -9,3 +9,6 @@ Put the .py file into this path below
 /Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts/
 (Py3 is required)
 ```
+
+## Thanks
+Thanks to laciechang, this is what I wrote by studying and analyzing laciechang's code
