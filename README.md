@@ -5,3 +5,4 @@
 ## 安装
 Put this file into /Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts/
 (Py3 is required)
+ 
