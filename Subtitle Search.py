@@ -1,9 +1,7 @@
 # Author: Yuu
-# Version: 1.0
-# Contact: woodsworld@qq.com
-DaVinci = bmd.scriptapp('Resolve')
-fu = bmd.scriptapp('Fusion')
-ui = fu.UIManager
+# Version: 1.1
+
+ui = fusion.UIManager
 disp = bmd.UIDispatcher(ui)
 
 Search_Box = 'Search_Box'
@@ -13,7 +11,7 @@ Go_To = 'Go_To'
 
 
 def project():
-    pjM = DaVinci.GetProjectManager()
+    pjM = resolve.GetProjectManager()
     pj = pjM.GetCurrentProject()
     return pj
 
@@ -72,7 +70,7 @@ main_window = ui.VGroup([
 ])
 
 dlg = disp.AddWindow({
-    "WindowTitle": "Subtitle Search V1.0",
+    "WindowTitle": "Subtitle Search V1.1",
     "ID": "Subtitle_Search",
     "Geometry": [
         400, 800,
